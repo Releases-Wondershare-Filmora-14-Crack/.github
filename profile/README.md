@@ -6,7 +6,7 @@
 
 <p dir="auto">🌱 I’m currently learning Web Development and other programming languages</p>
 
-<p dir="auto">📫  Download Link 👉 <strong><a href="https://pc4download.com/710/" rel="nofollow">https://pc4download.com/710/</a></strong></p>
+<p dir="auto">📫  Download Link 👉 <strong><a href="https://pc4download.com/" rel="nofollow">https://pc4download.com/710/</a></strong></p>
 
 <p dir="auto">⚡ Fun fact :- Food and Music🎵 are the reasons to live.</p>
 
